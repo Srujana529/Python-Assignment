@@ -65,9 +65,9 @@ class College:
 college = College("ANIL", "ANITS College", "Visakhapatnam")
 
 # Creating student objects
-s1 = Student(52, "Monika", 85, 78, 90, 2006, 50000)
-s2 = Student(61, "Divya", 88, 92, 80, 2007, 45000)
-s3 = Student(7, "Hima", 70, 75, 68, 2007, 20000)
+s1 = Student(24, "Srujana", 85, 78, 90, 2006, 50000)
+s2 = Student(61, "Harshitha", 88, 92, 80, 2007, 45000)
+s3 = Student(7, "Jotshna", 70, 75, 68, 2007, 20000)
 
 # Register students
 college.register_student(s1)
